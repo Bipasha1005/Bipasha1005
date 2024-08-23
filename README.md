@@ -3,8 +3,6 @@
 
 <img align="ridgt" alt="Cyber Sec" width="400" src="https://i.pinimg.com/originals/6e/36/41/6e3641df4d4ff70e70554064ff9739a3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bipasha1005&label=Profile%20views&color=0e75b6&style=flat" alt="bipasha1005" /> </p>
-
 <p align="left"> <a href="https://twitter.com/@acharje4bipasha" target="blank"><img src="https://img.shields.io/twitter/follow/acharje4bipasha?logo=twitter&style=for-the-badge" alt="@acharje4bipasha" /></a> </p>
 
 - 🔭 I’m currently working on **my Skills**
@@ -31,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bipasha1005&show_icons=true&locale=en" alt="bipasha1005" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bipasha1005&" alt="bipasha1005" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bipasha1005&label=Profile%20views&color=0e75b6&style=flat" alt="bipasha1005" /> </p>
