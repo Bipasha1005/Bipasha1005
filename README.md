@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bipasha Acharjee</h1>
 <!-- <h3 align="center"> can do fluent code… well, mostly. 🤖 When I’m not debugging (or creating bugs), I’m diving into the world, trying to keep the internet safe—one line of code at a time. Let’s build something that won’t crash! 💻🔒 </h3> -->
 
-<img align="ridgt" alt="Cyber Sec" width="400" src="https://i.pinimg.com/originals/6e/36/41/6e3641df4d4ff70e70554064ff9739a3.gif">
+<img align="right" alt="Cyber Sec" width="400" src="https://i.pinimg.com/originals/6e/36/41/6e3641df4d4ff70e70554064ff9739a3.gif">
 
 <p align="left"> <a href="https://twitter.com/@acharje4bipasha" target="blank"><img src="https://img.shields.io/twitter/follow/acharje4bipasha?logo=twitter&style=for-the-badge" alt="@acharje4bipasha" /></a> </p>
 
