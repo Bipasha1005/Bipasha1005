@@ -3,7 +3,7 @@
 
 <img align="right" alt="Cyber Sec" width="400" src="https://github.com/user-attachments/assets/f51bceeb-d2cc-4571-ac8f-a19ae08c57e0">
 
-<p align="left"> <a href="https://twitter.com/@acharje4bipasha" target="blank"><img src="https://img.shields.io/twitter/follow/acharje4bipasha?logo=twitter&style=for-the-badge" alt="@acharje4bipasha" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/bipasha-acharjee-b34939253/" target="blank"><img src="https://img.shields.io/twitter/follow/acharje4bipasha?logo=twitter&style=for-the-badge" alt="@bipashaacharje" /></a> </p>
 
 - 🔭 I’m currently working on **my Skills**
 
