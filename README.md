@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm Bipasha Acharjee</h1>
-<h3 align="left">A curious coder weaving AI, deep learning, <br> and cybersecurity into my code</h3>
+<h3 align="left">A curious coder weaving AI, deep learning into my code</h3>
+<!-- , <br> and cybersecurity -->
 
 <img align="right" alt="Cyber Sec" width="400" src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif"> 
 <!-- <img align="right" alt="Cyber Sec" width="400" src="https://i.pinimg.com/originals/6e/36/41/6e3641df4d4ff70e70554064ff9739a3.gif"> -->
