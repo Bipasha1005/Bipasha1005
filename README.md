@@ -3,8 +3,6 @@
 
 <img align="right" alt="Cyber Sec" width="400" src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif">
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bipasha1005" alt="bipasha1005" /></a> </p> -->
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **AI**
@@ -35,6 +33,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bipasha1005&show_icons=true&locale=en&layout=compact" alt="bipasha1005" /></p> 
 
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bipasha1005&show_icons=true&locale=en" alt="bipasha1005" /></p> -->
+<!-- [![Bipasha's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashutosh00710&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Bipasha1005/github-readme-activity-graph) -->
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bipasha1005&show_icons=true&locale=en" alt="bipasha1005" /></p> 
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bipasha1005&" alt="bipasha1005" /></p> -->
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bipasha1005" alt="bipasha1005" /></a> </p> -->
