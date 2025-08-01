@@ -24,7 +24,7 @@
 <a href="https://auth.geeksforgeeks.org/user/acharjeebrqk2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="acharjeebrqk2" height="30" width="40" /></a>
 </p>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=bipasha1005&label=Profile%20views&color=0e75b6&style=flat" alt="bipasha1005" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bipasha1005&label=Profile%20views&color=0e75b6&style=flat" alt="bipasha1005" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
